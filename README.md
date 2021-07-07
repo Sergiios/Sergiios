@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="bg-readme.png" width="980">
+</p>
+
+<h3>𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎!</h3>
+
 - 👋 Hi, I’m @Sergiios
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
