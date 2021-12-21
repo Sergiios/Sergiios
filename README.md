@@ -1,9 +1,18 @@
 <p align="center">
   <img src="bg-readme.png" width="980">
 </p>
+
 <!---
-Sergiios/Sergiios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+# Olá, Seja bem vindo! :D
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Sergiios)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/sergio-santos-715553226/)
+
+### About me
+I'm a {backend, frontend } developer;
+
+
 
 ### Ferramentas e Tecnologias
 <div display="flex" onclick={console.log('opa')}>
