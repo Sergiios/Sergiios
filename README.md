@@ -13,7 +13,6 @@
 I'm a {backend, frontend } developer;
 
 
---->
 
   
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://medium.com/USERNAME) 
@@ -40,5 +39,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Sergiios)
 
+--->
 
 
