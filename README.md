@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bg.png" width="980">
+  <img src="bg-readme.png" width="980">
 </p>
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://medium.com/USERNAME) 
