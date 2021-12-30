@@ -37,8 +37,6 @@ Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Fe
 <div/>
  <br/>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Sergiios)
-
 
 
 
