@@ -11,7 +11,7 @@
 Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Federal de Viçosa (UFV), aqui pretendo documentar meus estudos e alguns dos meus projetos.
 
 
-- 🔭 Atualmente trabalho com Auxiliar de TIC, na Editora Ultimato, lá trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
+- 🔭 Atualmente trabalho com Desenvolvedor VBA na Editora Ultimato, lá trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
 - 🧐 Tenho focado meus estudos em Desenvolvimento Back-End com Javascript (Nodejs) e Python (FastAPI, Django).
 - 😎 No meu tempo livre eu costumo ler, praticar algum esporte, ver filmes/series e jogar MOBA ou algum jogo COOP. 
 
