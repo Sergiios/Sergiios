@@ -2,8 +2,8 @@
   <img src="bg_readme.png" width="980">
 </p>
 
-<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 
 
 ### Olá, seja bem vindo(a)! 😎
