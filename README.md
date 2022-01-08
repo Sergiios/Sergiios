@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bg_readme.png" width="980">
+  <img src="bg.png" width="980">
 </p>
 
 <a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
