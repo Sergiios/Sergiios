@@ -2,8 +2,8 @@
   <img src="bg.png" width="980">
 </p>
 
-<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ### Olá, seja bem vindo(a)! 😎
@@ -11,7 +11,7 @@
 Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Federal de Viçosa (UFV), aqui pretendo documentar meus estudos e alguns dos meus projetos.
 
 
-- 🔭 Atualmente trabalho com Desenvolvedor VBA na Editora Ultimato, lá trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
+- 🔭 Atualmente trabalho com Desenvolvedor VBA na Editora Ultimato, trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
 - 🧐 Tenho focado meus estudos em Desenvolvimento Back-End com Javascript (Nodejs) e Python (FastAPI, Django).
 - 😎 No meu tempo livre eu costumo ler, praticar algum esporte, ver filmes/series e jogar MOBA ou algum jogo COOP. 
 
@@ -34,7 +34,7 @@ Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Fe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="35" height="35"/>
 <div/>
- <br/>
+<br/>
 
   <div>
     <a href="https://github.com/Sergiios">
