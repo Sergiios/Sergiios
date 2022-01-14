@@ -33,6 +33,7 @@ Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Fe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35"/>
 <div/>
 <br/>
 
