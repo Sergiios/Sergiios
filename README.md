@@ -12,7 +12,7 @@ Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Fe
 
 
 - 🔭 Atualmente trabalho com Desenvolvedor VBA na Editora Ultimato, trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
-- 🧐 Tenho focado meus estudos em Desenvolvimento Back-End com Javascript e Python.
+- 🧐 Tenho focado meus estudos em Desenvolvimento Back-End com Javascript/Typescript e Python.
 - 😎 No meu tempo livre eu costumo ler, praticar algum esporte, ver filmes/series e jogar MOBA ou algum jogo COOP. 
 
 
