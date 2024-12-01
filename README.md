@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="bg.png" width="980">
-</p>
-
-<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
 ### Olá, seja bem vindo(a)! 😎
-
-Olá, seja bem-vindo(a)! 👋
 
 Sou Sérgio, engenheiro de software com formação em Ciência da Computação pela Universidade Federal de Viçosa (UFV). Atualmente, atuo como Tech Lead em projetos que exigem alta confiabilidade e segurança, com foco em sistemas de alarme de incêndio e intrusão.
 
@@ -43,6 +33,9 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com ideias! �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="35" height="35" />
 <div/>
 <br/>
+
+<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <div>
     <a href="https://github.com/Sergiios">
