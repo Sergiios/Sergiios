@@ -8,12 +8,18 @@
 
 ### Olá, seja bem vindo(a)! 😎
 
-Me chamo Sérgio, sou graduando em Ciência da Computação pela Universidade Federal de Viçosa (UFV), aqui pretendo documentar meus estudos e alguns dos meus projetos.
+Olá, seja bem-vindo(a)! 👋
 
+Sou Sérgio, engenheiro de software com formação em Ciência da Computação pela Universidade Federal de Viçosa (UFV). Atualmente, atuo como Tech Lead em projetos que exigem alta confiabilidade e segurança, com foco em sistemas de alarme de incêndio e intrusão.
 
-- 🔭 Atualmente trabalho com Desenvolvedor VBA na Editora Ultimato, trabalho desenvolvendo novas funcionalidades e realizando manutenções no sistema que faz o gerenciamento da Editora.
-- 🧐 Tenho focado meus estudos em Desenvolvimento Back-End com Javascript/Typescript e Python.
-- 😎 No meu tempo livre eu costumo ler, praticar algum esporte, ver filmes/series e jogar MOBA ou algum jogo COOP. 
+🔭 Aqui no GitHub, você encontrará projetos que documentam meus estudos e experiências em tecnologia, com destaque para:
+
+Desenvolvimento em Golang: Minha linguagem principal para criar soluções eficientes e escaláveis.
+Visão Computacional: Explorando o uso de inteligência artificial em reconhecimento facial, monitoramento inteligente e outros projetos visuais.
+Cibersegurança: Estudo e aplicação de práticas para fortalecer a segurança de sistemas e redes.
+🧐 Estou sempre em busca de novos aprendizados e tecnologias que me permitam evoluir e inovar. No meu tempo livre, gosto de ler, praticar esportes, assistir a filmes e séries, além de me aventurar em jogos MOBA ou cooperativos.
+
+Sinta-se à vontade para explorar meus repositórios e contribuir com ideias! 🚀
 
 
 
