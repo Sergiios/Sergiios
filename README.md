@@ -1,41 +1,51 @@
-### Olá, seja bem vindo(a)! 😎
+ 👋 Olá, seja bem-vindo(a)!
 
-Sou Sérgio, engenheiro de software com formação em Ciência da Computação pela Universidade Federal de Viçosa (UFV). Atualmente, atuo como Tech Lead em projetos que exigem alta confiabilidade e segurança, com foco em sistemas de alarme de incêndio e intrusão.
+![Tech Lead](https://img.shields.io/badge/-Tech%20Lead-blueviolet?style=for-the-badge)
 
-🔭 Aqui no GitHub, você encontrará projetos que documentam meus estudos e experiências em tecnologia, com destaque para:
+Sou **Sergio**, engenheiro de software com formação em **Ciência da Computação** pela Universidade Federal de Viçosa (UFV), com mais de **8 anos de experiência em desenvolvimento de software**.
 
-Desenvolvimento em Golang: Minha linguagem principal para criar soluções eficientes e escaláveis.</br>
-Visão Computacional: Explorando o uso de inteligência artificial em reconhecimento facial, monitoramento inteligente e outros projetos visuais.</br>
-Cibersegurança: Estudo e aplicação de práticas para fortalecer a segurança de sistemas e redes.</br></br>
-🧐 Estou sempre em busca de novos aprendizados e tecnologias que me permitam evoluir e inovar. No meu tempo livre, gosto de ler, praticar esportes, assistir a filmes e séries, além de me aventurar em jogos MOBA ou cooperativos.</br>
+Atualmente atuo como **Tech Lead** em projetos **inovadores de sistemas de alarme de incêndio e de alarme de intrusão**, com foco em **soluções distribuídas, seguras e escaláveis**.
 
-Sinta-se à vontade para explorar meus repositórios e contribuir com ideias! 🚀
+## 🚀 Sobre meu trabalho
+
+Minha atuação é voltada para:
+
+- **Liderança técnica** e **coordenação de equipes multidisciplinares** no desenvolvimento e implementação de soluções.
+- **Planejamento estratégico** e **definição de arquitetura de sistemas**, com foco em escalabilidade, confiabilidade e alto padrão de qualidade.
+- **Supervisão do ciclo de vida completo dos projetos**, desde a concepção até a entrega, assegurando conformidade com normas de segurança e regulamentos.
+- **Busca contínua por novas tecnologias**, garantindo que as soluções adotadas estejam sempre na vanguarda do setor.
+- **Colaboração com stakeholders**, alinhando tecnologia aos objetivos de negócio.
+- **Treinamento e mentoria de membros da equipe**, promovendo o desenvolvimento de competências técnicas e de liderança.
+
+Minha principal linguagem é o **Golang**, com a qual construo **APIs REST robustas** e **microserviços de alta performance**.
+
+Tenho também experiência prática com:
+
+- **Python** → automação de tarefas, protótipos rápidos, integração com APIs e inteligência artificial.
+- **JavaScript/TypeScript** → aplicações full stack e integrações com sistemas front-end.
+- **C e C++** → integração com sistemas embarcados e componentes de baixo nível.
+
+Atuo fortemente em:
+
+- **Arquitetura de software** → clean architecture, microserviços e sistemas distribuídos resilientes.
+- **Qualidade de software** → testes automatizados, CI/CD, observabilidade e melhoria contínua dos processos.
+- **Mentoria técnica** → incentivo à inovação e desenvolvimento das competências da equipe.
+
+## 🧑🏻‍🏫 Ensino e comunidade
+
+Sou entusiasta do **ensino** e da **troca de conhecimento** — já atuei como **docente** e mantenho grande interesse em **mentoria** e no desenvolvimento técnico de pessoas.
+
+Acredito que a **colaboração** e a **comunicação eficaz** são fundamentais para o sucesso de qualquer projeto.
+
+## 🎮 Hobbies
+
+Fora do código, me interesso por **inteligência artificial**, **música**, e me aventuro em **jogos** — especialmente **MOBAS** e **cooperativos**.
 
 
+## 💬 Vamos nos conectar?
 
-### Ferramentas e Tecnologias
-<div display="flex" margin="10px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="35" height="35" />
-<div/>
-<br/>
-
-<a href = "https://github.com/Sergiios"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/sergio-santos-715553226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Aberto a **colaborações**, **networking** e **novas oportunidades**.  
+Sinta-se à vontade para explorar meus repositórios e trocar ideias! 🚀
 
   <div>
     <a href="https://github.com/Sergiios">
